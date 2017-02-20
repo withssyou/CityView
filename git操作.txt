@@ -1,0 +1,6 @@
+1.创建本地仓库
+	git init
+	git status
+ 	git add .
+	git commit -m "添加提交说明"	
+2.创建远程仓库
